@@ -18,7 +18,7 @@ body {
 
 .card {
   width: 180px;
-  height: 400px;
+  height: 450px;
   background-color: #fff;
   border: 1px solid;
   transform-style: preserve-3d;
@@ -122,7 +122,7 @@ body {
 
 /* Envelope styling */
 .envelope {
-  width: 400px;
+  width: 450px;
   height: 200px;
   background-color: #fff;
   display: grid;
@@ -187,7 +187,6 @@ body {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background-color: ;
 }
 
 .envelope-lid::before,
